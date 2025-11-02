@@ -5,8 +5,8 @@ Helm chart for PROD environment.
 ## Configuration
 
 - **Environment**: PROD
-- **Auto-Deploy**: No (manual via essesseff)
-- **Namespace**: `prod`
+- **Auto-Deploy**: Yes (typically by Release Engineer decision via essesseff)
+- **Namespace**: `essesseff-hello-world-go-template`
 - **Ingress**: `hello-world-prod.example.com`
 
 ## Updates
