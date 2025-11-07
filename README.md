@@ -6,7 +6,7 @@ Helm chart for PROD environment.
 
 - **Environment**: PROD
 - **Auto-Deploy**: Yes (typically by Release Engineer decision via essesseff)
-- **Namespace**: `essesseff-hello-world-go-template`
+- **Namespace**: `essesseff-hello-world-go-template` (set in the app-of-apps/argocd/hello-world-prod-application.yaml)
 - **Ingress**: `example.com/hello-world-prod`
 
 ## Updates
