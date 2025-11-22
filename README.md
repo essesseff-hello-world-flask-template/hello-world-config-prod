@@ -1,4 +1,4 @@
-# Hello World Config - PROD
+# hello-world Config - PROD
 
 Helm chart for PROD environment.
 
